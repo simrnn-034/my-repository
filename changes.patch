@@ -1,0 +1,7 @@
+--- hello.txt.txt	2025-01-21 15:03:40.584083000 +0530
++++ abc.txt	2025-01-29 15:34:37.111118400 +0530
+@@ -1,4 +0,0 @@
+-hi i am raima
+-
+-i have made changes
+-this is echoed
